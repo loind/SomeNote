@@ -40,3 +40,6 @@ openssl req -x509 -nodes -days 730 -newkey rsa:2048 -keyout private.key -out cer
 ```
 export SSL_CERT_FILE=/path/cert.pem
 ```
+
+## URL verify cert:
+https://tools.keycdn.com/ssl
